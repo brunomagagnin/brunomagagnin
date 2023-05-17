@@ -2,9 +2,10 @@
 
 
 
-- 🔭 Atuamente trabalho com manutenção e automação industrial.
-- 🌱 Estudando Java e Banco de Dados.
-- 📫 Email de contato: bruno_magagnin@yahoo.com.br
+- Atuamente trabalho com manutenção e automação industrial.
+- Entusiasta de Sistemas Embarcados.
+- Estudando Java e Embarcados.
+- Email de contato: bruno_magagnin@yahoo.com.br
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunomagagnin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
