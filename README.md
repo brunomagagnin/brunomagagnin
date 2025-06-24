@@ -4,7 +4,7 @@
 
 - Atuamente trabalho com manutenção e automação industrial.
 - Entusiasta de Sistemas Embarcados.
-- Estudando Java e Embarcados.
+- Estudando C++, Java e Embarcados.
 - Email de contato: bruno_magagnin@yahoo.com.br
 
 <div>
